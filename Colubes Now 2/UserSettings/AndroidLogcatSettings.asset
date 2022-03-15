@@ -1,0 +1,125 @@
+{
+    "m_SelectedDeviceId": "RZ8NB020KER",
+    "m_SelectedPackage": {
+        "deviceId": "RZ8NB020KER",
+        "name": "com.DefaultCompany.ColubesNow",
+        "processId": 22174,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 20666,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 6110,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 15678,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 28892,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 22277,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 26839,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 23639,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 28478,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 9917,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.ColubesNow",
+            "processId": 22174,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

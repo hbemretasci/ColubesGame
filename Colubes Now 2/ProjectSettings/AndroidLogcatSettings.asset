@@ -1,0 +1,179 @@
+{
+    "m_SelectedDeviceId": "RZ8NB020KER",
+    "m_SelectedPackage": {
+        "deviceId": "RZ8NB020KER",
+        "name": "com.DefaultCompany.Colubes",
+        "processId": 15958,
+        "exited": true
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 1814,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 13432,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 15656,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 18047,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 13163,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 16632,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 30048,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 16225,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 20827,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 12186,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 23622,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 27459,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 30946,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 24690,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 13961,
+            "exited": false
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 14235,
+            "exited": true
+        },
+        {
+            "deviceId": "RZ8NB020KER",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 15958,
+            "exited": true
+        },
+        {
+            "deviceId": "b6acf543",
+            "name": "com.miui.home",
+            "processId": 3421,
+            "exited": false
+        },
+        {
+            "deviceId": "b6acf543",
+            "name": "com.DefaultCompany.Colubes",
+            "processId": 25184,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
